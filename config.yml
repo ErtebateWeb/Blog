@@ -1,9 +1,11 @@
 baseURL: https://papermod-farsi.netlify.app
 languageCode: 'fa'
 defaultContentLanguage: 'fa'
-title: 'یک قالب وبلاگ'
+title: 'ارتباط وب'
 theme: "PaperMod"
-paginate: 5
+pagination:
+  pagerSize: 10
+
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -129,10 +131,11 @@ markup:
     # lineNos: true
     # style: monokai
 
-permalinks:
+#permalinks:
 # https://gohugo.io/content-management/urls/
-    posts: "/:filename/"
-    
+#    posts: "/:filename/"
+permalinks:
+  posts: "/:year/:month/:contentbasename/"    
 
 menu:
   main:
@@ -154,3 +157,7 @@ languages:
           category: categories
           tag: fatags
           series: series
+params:
+  social:
+    twitter: "https://twitter.com/..."
+    github: "https://github.com/..."
