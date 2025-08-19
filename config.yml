@@ -94,7 +94,7 @@ params:
     hiddenInSingle: true
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/ertebateweb/blog/content"
     Text: "Suggest Changes"
     appendFilePath: true
 
