@@ -1,4 +1,4 @@
-baseURL: https://ertebateweb.github.io/Blog/
+baseURL: "https://ErtebateWeb.github.io/Blog/"
 languageCode: 'fa'
 defaultContentLanguage: 'fa'
 title: 'ارتباط وب'
