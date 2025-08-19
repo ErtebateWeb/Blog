@@ -1,9 +1,10 @@
 ---
-title: "A Handy Guide to Mastering Markdown"
+title: A Handy Guide to Mastering Markdown
 date: 2023-05-03T11:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
-tags: []
+tags:
+  - markdown
+  - cheatsheet
+  - obsidian_howto
 categories: []
 showToc: false
 description: ""
