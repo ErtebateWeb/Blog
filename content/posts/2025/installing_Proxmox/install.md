@@ -23,7 +23,7 @@ cover:
   relative: false
   hidden: true
 editPost:
-  URL: https://github.com/<path_to_repo>/content
+  URL: https://github.com/ertebateweb/Blog/content
   Text: Suggest Changes
   appendFilePath: true
 ---
