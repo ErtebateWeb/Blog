@@ -135,3 +135,6 @@ languages:
       category: categories
       tag: fatags
       series: series
+relativeURLs: true
+canonifyURLs: true
+
