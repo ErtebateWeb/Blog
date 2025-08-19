@@ -6,16 +6,11 @@ tags:
   - پست
 author: مهران
 fatags: ["اولین تگ"]
-showToc: true
-TocOpen: false
 draft: false
-hidemeta: false
-comments: true
 description: توضیح این پست
 hideSummary: false
 ShowPostNavLinks: true
 ShowRssButtonInSectionTermList: true
-UseHugoToc: true
 cover:
   image: <image path/url>
   alt: <alt text>
