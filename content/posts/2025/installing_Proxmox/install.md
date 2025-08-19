@@ -13,10 +13,7 @@ hidemeta: false
 comments: true
 description: توضیح این پست
 hideSummary: false
-ShowReadingTime: true
-ShowBreadCrumbs: true
 ShowPostNavLinks: true
-ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
