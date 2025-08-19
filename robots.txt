@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://papermod-farsi.netlify.app/sitemap.xml
